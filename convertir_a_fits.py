@@ -9,6 +9,8 @@ import Tkinter, Tkconstants, tkFileDialog
 import os, errno
 import sys
 
+#agregue un comentario
+
 def choose_filenameobs():      #funcion para buscar nombre de 'archivo de sesion de obs'
     global appfilename
     global number_pf
